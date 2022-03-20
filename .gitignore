@@ -4,6 +4,7 @@ node_modules/
 TestCafeLogs/
 final/
 unzipped/
+config.json
 
 # Logs
 logs
