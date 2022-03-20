@@ -1,0 +1,25 @@
+{
+  "name": "tt-e2e-fix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "@octokit/core": "^3.6.0",
+    "extract-zip": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puayhiang/tt-e2e-fix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puayhiang/tt-e2e-fix/issues"
+  },
+  "homepage": "https://github.com/puayhiang/tt-e2e-fix#readme"
+}
