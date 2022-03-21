@@ -1,0 +1,4 @@
+[submodule "tradetrust-website"]
+	path = tradetrust-website
+	url = git@github.com:puayhiang/tradetrust-website.git
+	branch = fix/ci-timeouts
